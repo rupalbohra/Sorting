@@ -37,6 +37,7 @@ class InsertionSort {
 		InsertionSort ob = new InsertionSort();
 		ob.sort(arr);
 
+		
 		printArray(arr);
 	}
 } /* This code is contributed by Rajat Mishra. */
